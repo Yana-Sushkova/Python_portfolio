@@ -45,7 +45,7 @@
 - 1, 4, 8, 7, 5 -> 8
     - 78, 55, 36, 90, 2 -> 90
 ```
->[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%201/Task%202/2.py"Решение задачи 2")
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%201/Task%202/2.py "Решение задачи 2")
 
 ### Задача 3:
 Напишите программу, которая будет на вход принимать число N и выводить числа от -N до N
