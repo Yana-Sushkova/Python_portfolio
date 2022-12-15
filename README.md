@@ -4,27 +4,27 @@
 
 ## Решение практических заданий к семинарам:
 
-**Seminar 1** - [Перейти](https://github.com/Yana-Sushkova/2_Python_portfolio/tree/main/Seminar%201 "Перейти к уроку")
+**Seminar 1** - [Перейти](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%201 "Перейти к уроку")
 
-**Seminar 2** - [Перейти](https://github.com/Yana-Sushkova/2_Python_portfolio/tree/main/Seminar%202 "Перейти к уроку")
+**Seminar 2** - [Перейти](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%202 "Перейти к уроку")
 
-**Seminar 3** - [Перейти](https://github.com/Yana-Sushkova/2_Python_portfolio/tree/main/Seminar%203 "Перейти к уроку")
+**Seminar 3** - [Перейти](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%203 "Перейти к уроку")
 
-**Seminar 4** - [Перейти](https://github.com/Yana-Sushkova/2_Python_portfolio/tree/main/Seminar%204 "Перейти к уроку")
+**Seminar 4** - [Перейти](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%204 "Перейти к уроку")
 
-**Seminar 5** - [Перейти](https://github.com/Yana-Sushkova/2_Python_portfolio/tree/main/Seminar%205 "Перейти к уроку")
+**Seminar 5** - [Перейти](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%205 "Перейти к уроку")
 
-**Seminar 6** - [Перейти](https://github.com/Yana-Sushkova/2_Python_portfolio/tree/main/Seminar%206 "Перейти к уроку")
+**Seminar 6** - [Перейти](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%206 "Перейти к уроку")
 
-**Seminar 7** - [Перейти](https://github.com/Yana-Sushkova/2_Python_portfolio/tree/main/Seminar%207 "Перейти к уроку")
+**Seminar 7** - [Перейти](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%207 "Перейти к уроку")
 
-**Seminar 8** - [Перейти](https://github.com/Yana-Sushkova/2_Python_portfolio/tree/main/Seminar%208 "Перейти к уроку")
+**Seminar 8** - [Перейти](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%208 "Перейти к уроку")
 
-**Seminar 9** - [Перейти](https://github.com/Yana-Sushkova/2_Python_portfolio/tree/main/Seminar%209 "Перейти к уроку")
+**Seminar 9** - [Перейти](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%209 "Перейти к уроку")
 
 ...
 
-## [Seminar 1](https://github.com/Yana-Sushkova/2_Python_portfolio/tree/main/Seminar%201 "Задачи к Семинару 1")
+## [Seminar 1](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%201 "Задачи к Семинару 1")
 
 ### Задача 1: 
 Напишите программу, которая принимает на вход два числа и проверяет, является ли одно число квадратом другого.
@@ -36,7 +36,7 @@
 - 25, 5 -> да
 - 8,9 -> нет
 ```
->[Решение](https://github.com/Yana-Sushkova/2_Python_portfolio/blob/main/Seminar%201/Task%201/Program.cs "Решение задачи 1")
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%201/Task%201/Program.cs "Решение задачи 1")
 
 ### Задача 2:
 Напишите программу, которая на вход принимает 5 чисел и находит максимальное из них.
@@ -45,7 +45,7 @@
 - 1, 4, 8, 7, 5 -> 8
     - 78, 55, 36, 90, 2 -> 90
 ```
->[Решение](https://github.com/Yana-Sushkova/2_Python_portfolio/blob/main/Seminar%201/Task%202/Program.cs "Решение задачи 2")
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%201/Task%202/Program.cs "Решение задачи 2")
 
 ### Задача 3:
 Напишите программу, которая будет на вход принимать число N и выводить числа от -N до N
@@ -53,7 +53,7 @@
 Пример:
 - 5 -> -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5
 ```
->[Решение](https://github.com/Yana-Sushkova/2_Python_portfolio/blob/main/Seminar%201/Task%203/Program.cs "Решение задачи 3")
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%201/Task%203/Program.cs "Решение задачи 3")
 
 ### Задача 4:
 Напишите программу, которая будет принимать на вход дробь и показывать первую цифру дробной части числа.
@@ -63,7 +63,7 @@
 - 5 -> нет
 - 0,34 -> 3
 ```
->[Решение](https://github.com/Yana-Sushkova/2_Python_portfolio/blob/main/Seminar%201/Task%204/Program.cs "Решение задачи 4")
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%201/Task%204/Program.cs "Решение задачи 4")
 
 ### Задача 5:
 Напишите программу, которая принимает на вход число и проверяет, кратно ли оно 5 и 10 или 15, но не 30.
@@ -71,7 +71,7 @@
 Пример:
 нет
 ```
->[Решение](https://github.com/Yana-Sushkova/2_Python_portfolio/blob/main/Seminar%201/Task%205/Program.cs "Решение задачи 5")
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%201/Task%205/Program.cs "Решение задачи 5")
 
 ### Задача 6:
 Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
@@ -81,7 +81,7 @@
 -3 -> нет
 7 -> нет
 ```
->[Решение](https://github.com/Yana-Sushkova/2_Python_portfolio/blob/main/Seminar%201/Task%206/Program.cs "Решение задачи 6")
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%201/Task%206/Program.cs "Решение задачи 6")
 
 ### Задача 7:
 Напишите программу для проверки истинности утверждения ¬(X ⋁ Y ⋁ Z) = ¬X ⋀ ¬Y ⋀ ¬Z для всех значений предикат.
@@ -89,7 +89,7 @@
 Пример:
 нет
 ```
->[Решение](https://github.com/Yana-Sushkova/2_Python_portfolio/blob/main/Seminar%201/Task%207/Program.cs "Решение задачи 7")
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%201/Task%207/Program.cs "Решение задачи 7")
 
 ### Задача 8:
 Напишите программу, которая принимает на вход координаты точки (X и Y), причём X ≠ 0 и Y ≠ 0 и выдаёт номер четверти плоскости, 
@@ -100,13 +100,13 @@
 - x=2; y=4-> 1
 - x=-34; y=-30 -> 3 
 ```
->[Решение](https://github.com/Yana-Sushkova/2_Python_portfolio/blob/main/Seminar%201/Task%208/Program.cs "Решение задачи 8")
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%201/Task%208/Program.cs "Решение задачи 8")
 
 # `Закончила тут, остальное из для структуры из C#`
 
 ***
 
-## [Seminar 2](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%202 "Задачи к Семинару 2")
+## [Seminar 2](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%202 "Задачи к Семинару 2")
 
 ### Задача 10:
 Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
