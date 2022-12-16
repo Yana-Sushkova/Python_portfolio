@@ -8,3 +8,19 @@
 - x=2; y=4-> 1
 - x=-34; y=-30 -> 3 """
 
+
+def GetPointArea(x, y):
+    if x > 0 and y > 0:
+        print("1")
+    if x < 0 and y > 0:
+        print("2")
+    if x < 0 and y < 0:
+        print("3")
+    if x > 0 and y < 0:
+        print("4")
+
+
+x = int(input('Введите X: '))
+y = int(input('Введите Y: '))
+
+GetPointArea(x, y)

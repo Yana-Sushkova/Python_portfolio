@@ -9,13 +9,15 @@
 import os
 os.system('cls||clear')
 
-day_of_the_week = int (input('Введите номер дня недели, чтобы узнать выходной это день или нет: '))
+day_of_the_week = int(
+    input('Введите номер дня недели, чтобы узнать выходной это день или нет: '))
 
 while day_of_the_week > 7 or day_of_the_week < 1:
     print('Дней недели 7. Введите число от 1 до 7: ')
-    day_of_the_week = int (input('Введите номер дня недели, чтобы узнать выходной это день или нет: '))
-    
+    day_of_the_week = int(
+        input('Введите номер дня недели, чтобы узнать выходной это день или нет: '))
+
 if day_of_the_week == 6 or day_of_the_week == 7:
     print('Да, это выходной день')
-else: 
+else:
     print('Нет, это НЕ выходной день')

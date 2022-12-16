@@ -22,6 +22,12 @@
 
 **Seminar 9** - [Перейти](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%209 "Перейти к уроку")
 
+**Seminar 10** - [Перейти](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%210 "Перейти к уроку")
+
+**Seminar 11** - [Перейти](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%211 "Перейти к уроку")
+
+**Seminar 12** - [Перейти](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%212 "Перейти к уроку")
+
 ...
 
 ## [Seminar 1](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%201 "Задачи к Семинару 1")
