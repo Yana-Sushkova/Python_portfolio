@@ -125,7 +125,7 @@
 - A (3,6); B (2,1) -> 5,09
 - A (7,-5); B (1,-1) -> 7,21
 ```
->[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%201/Task%210/10.py "Решение задачи 10")
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%201/Task%2010/10.py "Решение задачи 10")
 
 # `Закончила тут, остальное для структуры из C#`
 
