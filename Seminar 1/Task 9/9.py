@@ -4,20 +4,21 @@
 Пример:
 нет """
 
-
 def GetXYArea(chetvert):
     if chetvert == 1:
         return print("x > 0 and y > 0")
-    if chetvert == 2:
+    elif chetvert == 2:
         return print("x < 0 and y > 0")
-    if chetvert == 3:
+    elif chetvert == 3:
         return print("x < 0 and y < 0")
-    if chetvert == 4:
+    elif chetvert == 4:
         return print("x > 0 and y < 0")
     else:
-        return print("Такой четверти нет, введите число от 1 до 4")
+        return print("Такой четверти нет, должно быть число от 1 до 4")
 
+import os
+os.system('cls||clear')
 
-chetvert = int(input('Введите номер четверрти: '))
+chetvert = int(input('Введите номер четверти: '))
 
 GetXYArea(chetvert)

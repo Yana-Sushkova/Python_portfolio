@@ -6,12 +6,12 @@
 - A (7,-5); B (1,-1) -> 7,21
  """
 
-
 def Distance(x1, x2, y1, y2):
-    result = (pow(x2 - x1, 2) + pow(y2 - y1, 2))**0.5
+    result = (pow(x2 - x1, 2) + pow(y1 - y2, 2))**0.5
     return result
 
-
+import os
+os.system('cls||clear')
 print('Введите координаты первой точки X1, Y1: ')
 x1 = int(input())
 y1 = int(input())
