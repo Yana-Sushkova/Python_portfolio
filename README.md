@@ -28,7 +28,7 @@
 
 **Seminar 12** - [Перейти](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/README.md#Seminar_12 "Перейти к уроку")
 
-# `Пока внесен только первый семинар`
+# `Пока внесен только 1 и 2 семинар`
 ...
 
 ## [Seminar_1](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%201 "Задачи к Семинару 1")
