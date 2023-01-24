@@ -517,7 +517,7 @@ k=2 => 2*x² + 4*x + 5 = 0 или x² + 5 = 0 или 10*x² = 0
 Пример:
 нет
 ```
->[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%207/Task%2050/50.py "Решение задачи 50")
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%207/Task%2050 "Решение задачи 50")
 
 ### Задача 51:
 Создайте телефонный справочник. Подробности в файле "Условия задачи 51.jpg"
@@ -525,7 +525,7 @@ k=2 => 2*x² + 4*x + 5 = 0 или x² + 5 = 0 или 10*x² = 0
 Пример:
 нет
 ```
->[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%207/Task%2051/51.py "Решение задачи 51")
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%207/Task%2051 "Решение задачи 51")
 
 
 ***
