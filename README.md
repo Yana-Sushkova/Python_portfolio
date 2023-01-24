@@ -509,7 +509,24 @@ k=2 => 2*x² + 4*x + 5 = 0 или x² + 5 = 0 или 10*x² = 0
 
 ***
 
-## [Seminar_7](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%207  "Задачи к Семинару 6")
+## [Seminar_7](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%207  "Задачи к Семинару 7")
+
+### Задача 50:
+Создайте калькулятор.
+```
+Пример:
+нет
+```
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%207/Task%2050/50.py "Решение задачи 50")
+
+### Задача 51:
+Создайте телефонный справочник. Подробности в файле "Условия задачи 51.jpg"
+```
+Пример:
+нет
+```
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%207/Task%2051/51.py "Решение задачи 51")
+
 
 ***
 
