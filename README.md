@@ -191,7 +191,7 @@
 
 ***
 
-## [Seminar_3](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%203 "Задачи к Семинару 3")
+## [Seminar_3](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%203 "Задачи к Семинару 3")
 
 ### Задача 20:
 Задайте список. Напишите программу, которая определит,
@@ -261,7 +261,7 @@
 
 ***
 
-## [Seminar_4](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%204  "Задачи к Семинару 4")
+## [Seminar_4](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%204  "Задачи к Семинару 4")
 
 ### Задача 27:
 Задайте строку из набора чисел. 
@@ -343,7 +343,7 @@ k=2 => 2*x² + 4*x + 5 = 0 или x² + 5 = 0 или 10*x² = 0
 
 ***
 
-## [Seminar_5](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%205  "Задачи к Семинару 5")
+## [Seminar_5](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%205 "Задачи к Семинару 5")
 
 ### Задача 35:
 В файле находится N натуральных чисел, записанных через пробел.
@@ -384,7 +384,7 @@ k=2 => 2*x² + 4*x + 5 = 0 или x² + 5 = 0 или 10*x² = 0
 
 ***
 
-## [Seminar_6](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%206  "Задачи к Семинару 6")
+## [Seminar_6](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%206  "Задачи к Семинару 6")
 
 ### Задача 42:
 Создайте список из случайных чисел. 
@@ -509,7 +509,7 @@ k=2 => 2*x² + 4*x + 5 = 0 или x² + 5 = 0 или 10*x² = 0
 
 ***
 
-## [Seminar_7](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%207  "Задачи к Семинару 7")
+## [Seminar_7](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%207 "Задачи к Семинару 7")
 
 ### Задача 50:
 Создайте калькулятор.
@@ -530,23 +530,23 @@ k=2 => 2*x² + 4*x + 5 = 0 или x² + 5 = 0 или 10*x² = 0
 
 ***
 
-## [Seminar_8](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%208  "Задачи к Семинару 8")
+## [Seminar_8](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%208  "Задачи к Семинару 8")
 
 ***
 
-## [Seminar_9](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%209  "Задачи к Семинару 9")
+## [Seminar_9](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%209  "Задачи к Семинару 9")
 
 ***
 
-## [Seminar_10](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%2010   "Задачи к Семинару 10")
+## [Seminar_10](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%2010   "Задачи к Семинару 10")
 
 ***
 
-## [Seminar_11](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%2011  "Задачи к Семинару 11")
+## [Seminar_11](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%2011  "Задачи к Семинару 11")
 
 ***
 
-## [Seminar_12](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%2012  "Задачи к Семинару 12")
+## [Seminar_12](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%2012  "Задачи к Семинару 12")
 
 
 
