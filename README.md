@@ -532,6 +532,22 @@ k=2 => 2*x² + 4*x + 5 = 0 или x² + 5 = 0 или 10*x² = 0
 
 ## [Seminar_8](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%208  "Задачи к Семинару 8")
 
+### Задача 52:
+Задача "Бариста". Условие и примеры в файле "Условия задачи 52.pdf" в разделе "Решение".
+```
+Пример:
+В файле "Условия задачи 52.pdf" в разделе "Решение".
+```
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%208/Task%2052 "Решение задачи 52")
+
+### Задача 53:
+Задача "Шифр Цезаря". Условие и примеры в файле "Условия задачи 53.pdf" в разделе "Решение".
+```
+Пример:
+В файле "Условия задачи 53.pdf" в разделе "Решение".
+```
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%208/Task%2053 "Решение задачи 52")
+
 ***
 
 ## [Seminar_9](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%209  "Задачи к Семинару 9")
