@@ -546,11 +546,20 @@ k=2 => 2*x² + 4*x + 5 = 0 или x² + 5 = 0 или 10*x² = 0
 Пример:
 В файле "Условия задачи 53.pdf" в разделе "Решение".
 ```
->[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%208/Task%2053 "Решение задачи 52")
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%208/Task%2053 "Решение задачи 53")
 
 ***
 
 ## [Seminar_9](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%209  "Задачи к Семинару 9")
+
+### Задача 55:
+Создайте любую программу.py при помощи виртуального окружения и PIP. Отправте репозиторий где будет этот файл и файл requirements.txt.
+Создайте любого бота телеграмм(можно самый простой), главное чтобы у вас к след. уроку был свой бот в телеграмме, в нем вы сможете работать над созданием нового бота на 10 семинаре.
+```
+Пример:
+нет.
+```
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%209/Task%2055 "Решение задачи 55")
 
 ***
 
