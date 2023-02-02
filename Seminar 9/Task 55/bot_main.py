@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, Callb
 from bot_command import *
 from random import choice
 
-app = ApplicationBuilder().token("6035168183:AAG6hGBTHmEE2cytTktOwZq_4lVwGyJRoJs").build()
+app = ApplicationBuilder().token("TOKEN").build()
 
 app.add_handler(CommandHandler("start", start))
 app.add_handler(CommandHandler("fortune_telling", fortune_telling))
