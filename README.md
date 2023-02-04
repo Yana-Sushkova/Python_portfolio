@@ -566,6 +566,14 @@ k=2 => 2*x² + 4*x + 5 = 0 или x² + 5 = 0 или 10*x² = 0
 
 ## [Seminar_10](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%2010   "Задачи к Семинару 10")
 
+### Задача 60:
+Создать телеграмм бота, не проще чем калькулятор.
+```
+Пример:
+нет.
+```
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%2010/Task%2060 "Решение задачи 60")
+
 ***
 
 ## [Seminar_11](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%2011  "Задачи к Семинару 11")
