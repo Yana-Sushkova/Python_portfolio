@@ -18,10 +18,10 @@
 import os
 os.system('cls||clear')
 
-listFruit = {}
+dictFruit = {}
 amount = int(input("Введите количество фруктов: "))
 for i in range(amount):
     name = input("Введите название фрукта: ")
     amountFruit = int(input("Введите количество фрукта: "))
-    listFruit[name] = amountFruit
-print(listFruit)
+    dictFruit[name] = amountFruit
+print(dictFruit)

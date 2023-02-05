@@ -12,6 +12,10 @@ for el in range(5):
     lst.append(randint(1, 10))
 print(lst)
 
+# или 
+# import random
+# lst = [random.randit(1,10) for _ in range(5)]
+
 # Решение 1
 
 count = 0
@@ -24,3 +28,8 @@ print(len(unique_lst))
 
 # Решение 2
 print(len(set(lst)))
+
+# или 
+# some_set = set(lst)
+# print(len(some_set))
+

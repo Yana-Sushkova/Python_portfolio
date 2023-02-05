@@ -548,6 +548,14 @@ k=2 => 2*x² + 4*x + 5 = 0 или x² + 5 = 0 или 10*x² = 0
 ```
 >[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%208/Task%2053 "Решение задачи 53")
 
+### Задача 54:
+Напишите игру "крестики-нолики"с двумя игроками.
+```
+Пример:
+нет
+```
+>[Решение](https://github.com/Yana-Sushkova/Python_portfolio/blob/main/Seminar%208/Task%2054/54.py "Решение задачи 54")
+
 ***
 
 ## [Seminar_9](https://github.com/Yana-Sushkova/Python_portfolio/tree/main/Seminar%209  "Задачи к Семинару 9")

@@ -18,11 +18,32 @@
 import os
 os.system('cls||clear')
 
+
 glossary = {}
 amount = int(input("Количество слов в словаре: "))
+
+''' # Решение 1
 for i in range(amount):
     name = input("Введите слово на английском языке: ")
     amount_tr = input(
         "Введите переводы на русский язык через пробел: ").split()
     glossary[name] = amount_tr
+print(glossary) '''
+
+# Решение 2
+
+for _ in range(amount):
+    eng_rus_str = input("Введите строку из примера: \n")
+    some_list = eng_rus_str.split(' - ')
+    glossary[some_list[0]] = some_list[1].split(', ')
+
 print(glossary)
+
+# поиск слова в словаре    
+eng_word = input('Введите слово для перевода: ')
+#print(glossary.get(eng_word), "такого слова нет в словаре")
+if glossary.get(eng_word):
+    print(', '.join(glossary.get(eng_word))) #join применим для любой коллекции, сперва пишем тот знак через, который хотим вывести элементы потом .join и потом итерируемый объект со строчками
+else:
+    print('Такого слова нет')
+

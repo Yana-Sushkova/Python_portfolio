@@ -18,6 +18,8 @@ import sys
 import os
 os.system('cls||clear')
 
+''' # Решение 1 (НЕ ВЕРНОЕ, Т.К. ДОЖНО БЫТЬ {"name": name, "age":age})
+ 
 # Создание пустого списка для хранения данных пользователей
 friends = []
 
@@ -36,9 +38,9 @@ for friend_number in range(N):
 
 # Выводим список друзей консоль
 
-""" # Выводим все словари друзей в консоль
-for friend in friends:
-    print(friend) """
+# """ # Выводим все словари друзей в консоль
+# for friend in friends:
+#     print(friend) """
 
 min_age = sys.maxsize
 min_fr = ()
@@ -49,8 +51,45 @@ for friend in friends[:]:
         min_age = friend.get(min_key)
         min_fr = min_key
 
-''' key (необязательно) ‒ ключевая функция, в которую передаются итерации, 
-и выполняется сравнение на основе ее возвращаемого значения; '''
+key (необязательно) ‒ ключевая функция, в которую передаются итерации, 
+и выполняется сравнение на основе ее возвращаемого значения; 
 
 print("Возраст самого младшего из друзей:", min_age)
-print("Имя самого младшего друга:", min_fr)
+print("Имя самого младшего друга:", min_fr) '''
+
+''' # Решение 2 (ВЕРНОЕ)
+
+N = int(input("Введите количество друзей: "))
+friends = []
+min_age = sys.maxsize
+min_name =""
+for friend_number in range(N):
+    name = input("Введите имя друга: ")
+    age = int(input("Введите возраст друга: "))
+    if age < min_age:
+        min_age = age
+        min_name = name
+    # Добавляем нового друга в список
+    friends.append({"name": name, "age": age})
+print(friends)
+print(f"Имя самого младшего друга: {min_name}, \nВозраст самого младшего из друзей: {min_age}")   '''
+
+# Решение 3 (ВЕРНОЕ)
+
+N = int(input("Введите количество друзей: "))
+friends = []
+
+for friend_number in range(N):
+    name = input("Введите имя друга: ")
+    age = int(input("Введите возраст друга: "))
+# Добавляем нового друга в список
+    friends.append({"name": name, "age": age})
+print(friends)
+min_age = friends[0]['age'] # первый словарь, который нулевой элемент списка и в нем ключ "age"
+for some_dict in friends:
+    if some_dict['age'] < min_age: #значение меньше ли значение ключа 'age', чем мин.возраст
+        min_age = some_dict['age'] # переприсваеваем минимальный возраст
+for some_dict in friends:
+        if some_dict['age'] == min_age:
+            print(some_dict['name'])
+            break
